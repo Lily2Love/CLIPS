@@ -1,12 +1,14 @@
 
 
-  <p align="center"><img width="1071" height="544" alt="Screenshot 2026-09-16 202601" src="https://github.com/user-attachments/assets/dc6d3d9f-f142-4b8b-8d65-da1a63dbb8c1" />
 
 <details>
   <summary
     
 >$$ \color{#f6336d}{ \huge \text{ MORE RANDOM CLIPS WITH ME AND FRIENDS}} $$
 ></summary>
+
+
+  <p align="center"><img width="1071" height="544" alt="Screenshot 2026-09-16 202601" src="https://github.com/user-attachments/assets/dc6d3d9f-f142-4b8b-8d65-da1a63dbb8c1" />
 <p align="center"><img width="411" height="346" alt="Screenshot 2026-07-26 190855" src="https://github.com/user-attachments/assets/063c29ab-cd4b-4040-b211-dc8b8e024673" />
 <p align="center"><img width="603" height="462" alt="Screenshot 2026-08-31 202921" src="https://github.com/user-attachments/assets/ef2cb251-fa6c-4ee0-b58e-3e1e495eedbd" />
 <p align="center"><img width="410" height="344" alt="Screenshot 2026-08-04 232653" src="https://github.com/user-attachments/assets/f23302a3-20ca-4880-8cd3-7bc0aa3d8e1f" />
