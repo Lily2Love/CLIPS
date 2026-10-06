@@ -4,7 +4,7 @@
 <details>
   <summary
     
->$$ \color{#f6336d}{ \huge \text{  RANDOM CLIPS WITH ME AND FRIENDS}} $$
+>$$ \color{#ec3a89}{ \huge \text{  RANDOM CLIPS WITH ME AND FRIENDS}} $$
 ></summary>
 
 
